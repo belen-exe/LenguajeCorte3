@@ -76,7 +76,9 @@ Tabla con las variables asignadas.
 <img width="341" height="137" alt="image" src="https://github.com/user-attachments/assets/fe610aab-f6fa-4ec8-a5a5-9dce78e247c2" />
 
 
-## Resultado
+## Pruebas
+
+Generar Visitor:
 
 <img width="1171" height="61" alt="image" src="https://github.com/user-attachments/assets/58e949bc-b9c7-4451-816a-f2a0898807b5" />
 
@@ -84,5 +86,9 @@ Tabla con las variables asignadas.
 antlr4 -no-listener -visitor CalcExpr.g4 
 javac Calc.java CalcExpr*.java
 ```
+
+<br>
+
+Resultado:
 
 <img width="1252" height="903" alt="image" src="https://github.com/user-attachments/assets/f128ddc3-c6db-4a8b-ba42-c5d0611771b8" />
