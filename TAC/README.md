@@ -9,6 +9,7 @@ La gramática de C (mini-C para esta tarea) se implementará en un EDTS con cód
 <img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/394d701d-508e-41fb-99c1-32c5299d18cb" />
 
 <br>
+<br>
 
 Este mini-C incluye.
 1. Las sentencias:
