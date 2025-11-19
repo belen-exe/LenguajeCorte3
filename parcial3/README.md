@@ -41,6 +41,7 @@ Para correr:
 ```
 make NQL | bison -d NQL.y | flex NQL.l
 cc -o nql NQL.tab.c lex.yy.c -lfl
+./nql test.nql
 ```
 
 <img width="1679" height="800" alt="image" src="https://github.com/user-attachments/assets/a628ef6a-35cf-4f98-a6c6-af431d339f9b" />
