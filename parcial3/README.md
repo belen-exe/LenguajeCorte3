@@ -10,7 +10,6 @@ Operaciones posibles:
 - UPDATE (set) - Actualizar registros
 - DELETE (drop) - Eliminar registros
 - WHERE - Filtros condicionales en todas las operaciones
-- Múltiples tablas - Hasta 10 tablas simultáneas
 - Tipos de datos - Números, strings, booleanos, null
 
 Estrutura general:
@@ -48,4 +47,16 @@ cc -o nql NQL.tab.c lex.yy.c -lfl
 
 
 ## Punto 2
+
+Gramática de multiplicación de matrices:
+
+![WhatsApp Image 2025-11-19 at 4 25 10 PM](https://github.com/user-attachments/assets/e4030f67-fee6-4f48-9542-823685d337f1)
+
+
+## Punto 3
+
+Aplicado en ANTLR:
+
+<img width="769" height="857" alt="image" src="https://github.com/user-attachments/assets/ec57da05-8f27-44ca-9c68-5f7d5a132f5d" />
+
 
