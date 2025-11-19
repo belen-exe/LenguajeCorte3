@@ -32,5 +32,19 @@ new products { name: "Mouse", price: 25000, stock: 50 }
 new products { name: "Teclado", price: 88000, stock: 0 }
 ```
 
+**Resultados:**
 
+Para correr:
+
+<img width="986" height="116" alt="image" src="https://github.com/user-attachments/assets/b721a783-b358-4b96-a3b3-475ecad2e1d3" />
+
+```
+make NQL | bison -d NQL.y | flex NQL.l
+cc -o nql NQL.tab.c lex.yy.c -lfl
+```
+
+<img width="1679" height="800" alt="image" src="https://github.com/user-attachments/assets/a628ef6a-35cf-4f98-a6c6-af431d339f9b" />
+
+
+## Punto 2
 
