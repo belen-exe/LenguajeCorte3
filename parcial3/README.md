@@ -59,4 +59,22 @@ Aplicado en ANTLR:
 
 <img width="769" height="857" alt="image" src="https://github.com/user-attachments/assets/ec57da05-8f27-44ca-9c68-5f7d5a132f5d" />
 
+Multiplicación en EvalVisitor con comprobación de diferentes dimensiones:
 
+<img width="653" height="564" alt="image" src="https://github.com/user-attachments/assets/7e5d2966-096e-4d59-a7eb-994ef0a65195" />
+
+<br>
+<br>
+<br>
+
+**Resultados:**
+
+Ejemplo a mano:
+
+![WhatsApp Image 2025-11-19 at 4 35 05 PM](https://github.com/user-attachments/assets/a9f8ae4b-40ef-45f1-a2e2-73c286376170)
+
+<br>
+
+Pasado a codigo:
+
+<img width="1805" height="425" alt="image" src="https://github.com/user-attachments/assets/571762df-f8a3-44b2-a95c-e5cbefea3075" />
