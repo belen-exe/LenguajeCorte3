@@ -59,6 +59,9 @@ Aplicado en ANTLR:
 
 <img width="769" height="857" alt="image" src="https://github.com/user-attachments/assets/ec57da05-8f27-44ca-9c68-5f7d5a132f5d" />
 
+<br>
+<br>
+
 Multiplicación en EvalVisitor con comprobación de diferentes dimensiones:
 
 <img width="653" height="564" alt="image" src="https://github.com/user-attachments/assets/7e5d2966-096e-4d59-a7eb-994ef0a65195" />
